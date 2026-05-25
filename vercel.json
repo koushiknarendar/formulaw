@@ -1,0 +1,20 @@
+{
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "framework": null,
+  "rewrites": [
+    { "source": "/", "destination": "/index.html" },
+    { "source": "/about", "destination": "/about.html" },
+    { "source": "/services", "destination": "/services.html" },
+    { "source": "/blog", "destination": "/blog.html" },
+    { "source": "/blog/5-critical-clauses-co-founder-agreement", "destination": "/blog/5-critical-clauses-co-founder-agreement.html" },
+    { "source": "/blog/data-privacy-bill-impact-indian-startups", "destination": "/blog/data-privacy-bill-impact-indian-startups.html" },
+    { "source": "/blog/understanding-ip-rights-software-india", "destination": "/blog/understanding-ip-rights-software-india.html" },
+    { "source": "/consultation", "destination": "/consultation.html" },
+    { "source": "/contact", "destination": "/contact.html" },
+    { "source": "/faqs", "destination": "/faqs.html" },
+    { "source": "/privacy", "destination": "/privacy.html" },
+    { "source": "/terms", "destination": "/terms.html" },
+    { "source": "/refund-policy", "destination": "/refund-policy.html" }
+  ]
+}
